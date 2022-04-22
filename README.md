@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snehapednekar
 - 👀 I’m interested in designing.
-- 🌱 I’m currently learning web technologies
+- 🌱 I’m currently learning .net and web technologies.
 - 📫 How to reach me: By gmail-->   pednekarsneha82@gmail.com
 
 <!---
